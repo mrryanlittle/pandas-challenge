@@ -13,7 +13,9 @@ The provided data allowed me to break down the purchasing analysis into differen
 ## Tools Used
 
 Python
+
 Pandas
+
 Jupyter Notebook
 
 ## Thank You for Reading My ReadMe!
