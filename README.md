@@ -18,6 +18,6 @@ Jupyter Notebook
 
 ## Thank You for Reading My ReadMe!
 
-Thank you for reading my readme, it is my first and I am always looking for feedback and work. Feel free to message me on GitHub or LinkedIn if you would like to connect.
+Thank you for reading my readme, I am always looking for feedback and work. Feel free to message me on GitHub or LinkedIn if you would like to connect.
 
 [GitHub](https://github.com/mrryanlittle) - [LinkedIn](https://www.linkedin.com/in/ryanlittle01/)
